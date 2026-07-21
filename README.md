@@ -26,7 +26,6 @@ DHT22 ve FC28 sensörlerini entegre çalıştırarak kodumda yazdığım koşull
 * DHT22 sensöründen sıcaklık ve nem değerleri okunur ve gerekli variablelara aktarılır
 * FC28 sensöründen nem değeri okunarak gerekli variablea aktarılır
 * Wifi bağlantısı kurulur
-* Değerler lcd ekranda gösterilir
 * Belirlenen aralıkta telegram botuna bitkinin içinde bulunduğu odanın sıcaklık ve nem değerleri gönderilir
 * Toprak nem değeri eşik değeri altına düşerse bota uyarı mesajı yollanır
 * Sıcaklık ve nem değerleri belirlenen değerler dışına saparsa bota başka bir uyarı mesajı yollanır
