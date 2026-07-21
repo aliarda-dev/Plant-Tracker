@@ -34,7 +34,7 @@ DHT22 ve FC28 sensörlerini entegre çalıştırarak kodumda yazdığım koşull
 
 ***Teknik Notlar***
 
-* Wifi ve telegram kodunu başta kendim yazmaya çalıştım ama ilk IoT projem olduğu için kafam çok karışıktı ai yardımı ile hallettim ama bu demek değil ki kodu anlamadan kopyala yapıştır yaptım, kodun son halini yazdıktan sonra 2-3 günümü bu fonksiyonların ne işe yaradığını anlamakla geçirdim.
+* Wifi bağlantısı ve Telegram API kısmında AI'dan destek aldım. İlk IoT projem olduğu için ESP'nin ağ yapısını tek başıma kurmakta zorlandım. Kodu tamamladıktan sonra birkaç gün boyunca kullandığım her fonksiyonu ve event yapısını tek tek inceleyerek nasıl çalıştığını öğrenmeye çalıştım.
 * Yine aynı şekilde kodun belirli kısımlarında ai desteği aldım.
 
 ***Geliştirme Fikirleri***
