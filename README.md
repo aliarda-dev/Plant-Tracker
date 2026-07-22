@@ -45,7 +45,8 @@ DHT22 ve FC28 sensörlerini entegre çalıştırarak kodumda yazdığım koşull
 🎥 Proje Demo
 
 
-https://github.com/user-attachments/assets/9c1c1782-d420-4364-a7df-d7c30c8086fd
+https://github.com/user-attachments/assets/45af9969-96e5-4f03-8e86-a813d68cf8f5
+
 
 
 
