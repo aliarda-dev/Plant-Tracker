@@ -1,3 +1,4 @@
+
 ***Plant Tracker***
 
 DHT22 ve FC28 sensörlerini entegre çalıştırarak kodumda yazdığım koşullar sağlandığında telegram botuna mesaj yollayan bir IoT projesi. İlk IoT proje deneyimim oldu zorlandığım taraf ESP32'nin wifiye bağlaması oldu, buna gerçekten çok vakit ayırdım.
@@ -42,6 +43,9 @@ DHT22 ve FC28 sensörlerini entegre çalıştırarak kodumda yazdığım koşull
   
 
 🎥 Proje Demo
+
+
+https://github.com/user-attachments/assets/9c1c1782-d420-4364-a7df-d7c30c8086fd
 
 
 
