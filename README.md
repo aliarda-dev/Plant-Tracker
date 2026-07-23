@@ -35,7 +35,6 @@ DHT22 ve FC28 sensörlerini entegre çalıştırarak kodumda yazdığım koşull
 ***Teknik Notlar***
 
 * Wifi bağlantısı ve Telegram API kısmında AI'dan destek aldım. İlk IoT projem olduğu için ESP'nin ağ yapısını tek başıma kurmakta zorlandım. Kodu tamamladıktan sonra birkaç gün boyunca kullandığım her fonksiyonu ve event yapısını tek tek inceleyerek nasıl çalıştığını öğrenmeye çalıştım.
-* Yine aynı şekilde kodun belirli kısımlarında ai desteği aldım.
 
 ***Geliştirme Fikirleri***
 
@@ -51,3 +50,6 @@ https://github.com/user-attachments/assets/45af9969-96e5-4f03-8e86-a813d68cf8f5
 
 
 📷 Proje PCB Medyası
+
+<img width="878" height="789" alt="plant-tracker4" src="https://github.com/user-attachments/assets/19bd5abc-d4de-4d2a-a9ca-71aec199cdb0" />
+
